@@ -1,0 +1,17 @@
+Best Test Accuracy: 0.992600
+Best Epoch: 10
+Final Test Loss: 0.023009
+Best Checkpoint Test Loss: 0.023009
+Precision (macro): 0.992524
+Recall (macro): 0.992541
+F1-score (macro): 0.992525
+MC Dropout Samples: 30
+MC Accuracy: 0.992200
+Average Predictive Entropy: 0.082582
+Average Confidence: 0.977782
+Noise 0.0 Accuracy: 0.992200; Confidence: 0.977782; Entropy: 0.082582
+Noise 0.1 Accuracy: 0.991800; Confidence: 0.973743; Entropy: 0.100240
+Noise 0.2 Accuracy: 0.988600; Confidence: 0.954034; Entropy: 0.178327
+Noise 0.3 Accuracy: 0.958100; Confidence: 0.862818; Entropy: 0.473114
+Noise 0.4 Accuracy: 0.768800; Confidence: 0.683602; Entropy: 0.933644
+Noise 0.5 Accuracy: 0.484600; Confidence: 0.581321; Entropy: 1.175818
