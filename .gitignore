@@ -1,0 +1,14 @@
+.venv/
+.cache/
+data/
+models/*.pth
+__pycache__/
+*.pyc
+report_material/qa/
+
+.private/
+.publish/
+.env
+.env.*
+*.pem
+*.key
